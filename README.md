@@ -2,6 +2,10 @@
 
 - ⚡ Fun fact: I mostly run on coffee.
 
+-  🔭 I’m currently working on a trade tracker application with an express backend and a React frontent. At present it works with TradeZero accounts, but it is easy to modify for other file upload types.
+-  Site: https://tradetrackerfrontend-production.up.railway.app/
+-  For test user, use Username: TestUser Password: adminadmin
+
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node-dot-js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
