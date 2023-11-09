@@ -1,8 +1,10 @@
 ### Learn. Build. Get stuck. Repeat.
 
 ### ⚡ Fun fact: I mostly run on coffee.
+---
 
 ### 🚀 What I'm Working On
+---
 
 #### Trade Tracker Application 📊
 A sleek and responsive trade tracking platform with an **Express backend** and a **React frontend**. It currently interfaces seamlessly with **TradeZero accounts**, and it's designed for easy adaptation to other account types. I initially built the backend, but decided to build the frontend as a learning experience with React.
@@ -10,6 +12,7 @@ A sleek and responsive trade tracking platform with an **Express backend** and a
 - **Try It Out**: [Trade Tracker](https://tradetrackerfrontend-production.up.railway.app/) *(Username: TestUser | Password: adminadmin)*
 
 - *Please note: The application is currently in a beta stage. Your feedback is invaluable!*
+---
 
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node-dot-js)
