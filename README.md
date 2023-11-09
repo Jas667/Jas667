@@ -2,9 +2,14 @@
 
 - ⚡ Fun fact: I mostly run on coffee.
 
--  🔭 I’m currently working on a trade tracker application with an express backend and a React frontent. At present it works with TradeZero accounts, but it is easy to modify for other file upload types.
--  Trade Tracker: https://tradetrackerfrontend-production.up.railway.app/
--  For test user, use Username: TestUser Password: adminadmin
+### 🚀 What I'm Working On
+
+#### Trade Tracker Application 📊
+A sleek and responsive trade tracking platform with an **Express backend** and a **React frontend**. It currently interfaces seamlessly with **TradeZero accounts**, and it's designed for easy adaptation to other account types.
+
+- **Try It Out**: [Trade Tracker](https://tradetrackerfrontend-production.up.railway.app/) *(Username: TestUser | Password: adminadmin)*
+
+- *Please note: The application is currently in a beta stage. Your feedback is invaluable!*
 
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node-dot-js)
