@@ -1,10 +1,10 @@
 ### Learn. Build. Get stuck. Repeat.
+---
 
 ### ⚡ Fun fact: I mostly run on coffee.
 ---
 
 ### 🚀 What I'm Working On
----
 
 #### Trade Tracker Application 📊
 A sleek and responsive trade tracking platform with an **Express backend** and a **React frontend**. It currently interfaces seamlessly with **TradeZero accounts**, and it's designed for easy adaptation to other account types. I initially built the backend, but decided to build the frontend as a learning experience with React.
@@ -21,6 +21,7 @@ A sleek and responsive trade tracking platform with an **Express backend** and a
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
+---
 
 <!--
 **Jas667/Jas667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
