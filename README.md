@@ -21,7 +21,6 @@ A sleek and responsive trade tracking platform with an **Express backend** and a
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
----
 
 <!--
 **Jas667/Jas667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
