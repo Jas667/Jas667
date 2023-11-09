@@ -9,7 +9,7 @@
 #### Trade Tracker Application 📊
 A sleek and responsive trade tracking platform with an **Express backend** and a **React frontend**. It currently interfaces seamlessly with **TradeZero accounts**, and it's designed for easy adaptation to other account types. I initially built the backend, but decided to build the frontend as a learning experience with React.
 
-- **Try It Out**: [Trade Tracker](https://tradetrackerfrontend-production.up.railway.app/) *(Username: TestUser | Password: adminadmin)*
+- **Try It Out**: [Trade Tracker](https://tradetrackerfrontend-production.up.railway.app/) **(Username: TestUser | Password: adminadmin)**
 
 - *Please note: The application is currently in a beta stage. Your feedback is invaluable!*
 ---
