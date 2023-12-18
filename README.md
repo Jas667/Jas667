@@ -15,7 +15,7 @@ A sleek and responsive trade tracking platform with an **Express backend** and a
 
 - **Try It Out**: [Trade Tracker](https://tradetrackerfrontend-production.up.railway.app/) **(Username: TestUser | Password: adminadmin)**
 
-- *Please note*: The Trade Tracker is currently in beta. It is optimized for desktop and tablet use, and we're working hard to improve the mobile experience. If you encounter any layout issues on smaller screens after logging in, please know that these are known issues, and fixes are on the way. Your feedback during this stage is invaluable — if you have suggestions or want to contribute to the development, especially for mobile responsiveness, don't hesitate to reach out!
+- *Please note*: The Trade Tracker is currently in beta. It is optimized for desktop and tablet use. Your feedback during this stage is invaluable — if you have suggestions or want to contribute to the development, especially for mobile responsiveness, don't hesitate to reach out!
 ---
 
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
