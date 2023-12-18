@@ -5,6 +5,7 @@
 ---
 ### 🏆 Certifications
 - **Back-End Engineering Course** from Codecademy: A comprehensive journey into back-end development, covering essential technologies and concepts such as HTML, CSS, JS, Node.js, Express.js, SQL, PostgreSQL, Web Security, Software Infrastructure & Scalability, Data Structure, and Algorithms. [View my Codecademy Back-End Engineering Certificate](https://github.com/Jas667/certifications/blob/main/Jas667%20s%20profile%20_%20Codecademy-page-001.jpg?raw=true).
+- **BSc (Hons) Cyber Security** starting course in February of 2024.
 ---
 
 ### 🚀 What I'm Working On
