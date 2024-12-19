@@ -13,9 +13,6 @@
 #### Trade Tracker Application 📊
 A sleek and responsive trade tracking platform with an **Express backend** and a **React frontend**. It currently interfaces seamlessly with **TradeZero accounts**, and it's designed for easy adaptation to other account types. I initially built the backend, but decided to build the frontend as a learning experience with React.
 
-- **Try It Out**: [Trade Tracker](https://tradetrackerfrontend-production.up.railway.app/) **(Username: TestUser | Password: adminadmin)**
-
-- *Please note*: The Trade Tracker is currently in beta. It is optimized for desktop and tablet use. Your feedback during this stage is invaluable — if you have suggestions or want to contribute to the development, especially for mobile responsiveness, don't hesitate to reach out!
 ---
 
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
