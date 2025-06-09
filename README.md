@@ -10,7 +10,10 @@
 
 ### 🚀 What I'm Working On
 
-#### Trade Tracker Application 📊
+####
+Studying Bug Bounty hunting whenever I have time off from the Open Uni. At present I am focusing on client-side bugs.
+
+#### Trade Tracker Application (Completed)📊
 A sleek and responsive trade tracking platform with an **Express backend** and a **React frontend**. It currently interfaces seamlessly with **TradeZero accounts**, and it's designed for easy adaptation to other account types. I initially built the backend, but decided to build the frontend as a learning experience with React.
 
 ---
